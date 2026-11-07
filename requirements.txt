@@ -1,0 +1,6 @@
+streamlit
+requests
+hindsight-sdk
+autogen-agentchat
+azure-cognitiveservices-speech
+pandas
